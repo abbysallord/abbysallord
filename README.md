@@ -10,37 +10,37 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 **Student** at The Nxtwave Institute of Advanced Technology, AI specialization
-- 🚀 **AI & Web Development Intern** | Building innovative products and automation tools  
+- 🎓 **Student** at The Nxtwave Institute of Advanced Technology & Yenepoya University, AI specialization
+- 🚀 **AI & Web Development Intern** | Building innovative products and automation tools
 - 🏆 **Hackathon Enthusiast** | Love solving real-world problems
 
 ---
 
 ## 🛠️ Skills
 
-- **Languages:** Python, JavaScript, C++, HTML5, CSS3
+- **Languages:** Python, JavaScript, C++
 - **Frameworks/Libraries:** ReactJS, Next.js
-- **Tools/Platforms:** Git/GitHub, Netlify, Docker, Render.com
-- **APIs/Services:** Hugging Face, REST APIs, Translation APIs
+- **Tools/Platforms:** Git/GitHub, Docker, K8s
+- **APIs/Services:** Hugging Face, REST APIs
 
 ---
 
 ## 🎯 Achievements
 
-- 🥈 **2nd Place:** International Hackathon, Srinivas Institute of Technology *(2025)*
-- 🏅 **Campus Ambassador:** Techfest IIT Bombay *(2025-26; Rank #232)*
-- 👨‍💻 **AI Development Intern:** CodeAlpha (Chatbots, Object Detection, Translation tools)
-- 💼 **Development Intern:** Samagra (Full-stack & software projects)
-- 🏆 **Other:** Multiple certifications in AI and Full Stack Development
+- **Finalist of OpenAI Buildathon:** Participated as a finalist in OpenAI x Nxtwave x AI Impact Summit Buildathon in New Delhi
+- **2nd Place:** International Hackathon, Srinivas Institute of Technology *(2025)*
+- **Campus Ambassador:** Techfest IIT Bombay *(2025-26; Rank #232)*
+- **AI Development Intern:** CodeAlpha (Chatbots, Object Detection, Translation tools)
+- **Other:** Multiple certifications in AI and Full Stack Development
 
 ---
 
 ## 🚀 Projects
 
+- **AgroNova:** Farmer assistant app *(Hackathon Winner)* - [**Try ArgoNova Here**](https://www.agronova.in)
+- **CardioNerve:** An alertion software that will alert users if their heart rate crosses certain limits, risking heart attacks (Ideation) - [**check the CardioNerve website here**](https://cardionerve.vercel.app/)
 - **AI-Chef Recipe Generator:** Create recipes using AI (Hugging Face)
-- **Travel Journal (React):** Dynamic digital travel journal
-- **Portfolio Website:** [dhanushshenoy.dev](https://dhanushshenoyh.vercel.app)
-- **AgroNova:** Farmer assistant app *(Hackathon Winner)*
+- **Portfolio Website:** [dshenoyh.in](https://www.dshenoyh.in)
 - **Python Task Automator:** Personal workflow scripts
 - **Ultimate n8n Assistant:** Visual workflow automation
 
@@ -48,6 +48,7 @@
 
 ## 📜 Certifications
 
+- Finalist in OpenAI x Nxtwave x AI imapact summit Buildathon, New Delhi
 - International Hackathon, SIT – 2nd Place *(2025)*
 - Techfest IIT Bombay – Campus Ambassador *(2025)*
 - CodeAlpha – AI Internship *(2024)*
@@ -65,6 +66,7 @@ Hackathons • AI Development • Full-Stack Web • Automation • Cybersecurit
 - **Email:** dshenoyh@gmail.com
 - **Mobile:** +91 6360869590
 - [**LinkedIn**](https://www.linkedin.com/in/dhanush-shenoy-h)
+- [**Instagram**](https://www.instagram.com/conqueror.core)
 
 ---
 
