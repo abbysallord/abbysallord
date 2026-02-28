@@ -2,7 +2,7 @@
 
 **Aspiring AI & Full Stack Developer | 1st Year Engineering Student**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-dhanushshenoyh.vercel.app-blue)](https://www.dshenoyh.in)
+[![Portfolio](https://img.shields.io/badge/Portfolio-dshenoyh.in-blue)](https://www.dshenoyh.in)
 [![Email](https://img.shields.io/badge/Email-dshenoyh@gmail.com-red)](mailto:dshenoyh@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/dhanush-shenoy-h)
 
