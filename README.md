@@ -8,15 +8,15 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-- 🎓 **Student** at The Nxtwave Institute of Advanced Technology & Yenepoya University, AI specialization
-- 🚀 **AI & Web Development Intern** | Building innovative products and automation tools
-- 🏆 **Hackathon Enthusiast** | Love solving real-world problems
+- **Student** at The Nxtwave Institute of Advanced Technology & Yenepoya University, AI specialization
+- **AI & Web Development Intern** | Building innovative products and automation tools
+- **Hackathon Enthusiast** | Love solving real-world problems
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 - **Languages:** Python, JavaScript, C++
 - **Frameworks/Libraries:** ReactJS, Next.js
@@ -25,7 +25,7 @@
 
 ---
 
-## 🎯 Achievements
+## Achievements
 
 - **Finalist of OpenAI Buildathon:** Participated as a finalist in OpenAI x Nxtwave x AI Impact Summit Buildathon in New Delhi
 - **2nd Place:** International Hackathon, Srinivas Institute of Technology *(2025)*
@@ -35,7 +35,7 @@
 
 ---
 
-## 🚀 Projects
+## Projects
 
 - **AgroNova:** Farmer assistant app *(Hackathon Winner)* - [**Try ArgoNova Here**](https://www.agronova.in)
 - **CardioNerve:** An alertion software that will alert users if their heart rate crosses certain limits, risking heart attacks (Ideation) - [**check the CardioNerve website here**](https://cardionerve.vercel.app/)
@@ -46,7 +46,7 @@
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 - Finalist in OpenAI x Nxtwave x AI imapact summit Buildathon, New Delhi
 - International Hackathon, SIT – 2nd Place *(2025)*
@@ -55,13 +55,13 @@
 
 ---
 
-## 💡 Interests
+## Interests
 
 Hackathons • AI Development • Full-Stack Web • Automation • Cybersecurity • Competitive Programming
 
 ---
 
-## 📫 Contact
+## Contact
 
 - **Email:** dshenoyh@gmail.com
 - **Mobile:** +91 6360869590
