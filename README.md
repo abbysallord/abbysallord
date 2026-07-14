@@ -1,74 +1,91 @@
 # Hi there, I'm Dhanush Shenoy H! 👋
 
-**Aspiring AI & Full Stack Developer | 1st Year Engineering Student**
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&duration=2000&pause=1000&color=c8f542&background=00000000&width=435&lines=AI+Engineer;Full+Stack+Developer;Entrepreneur+%26+Builder" alt="Typing SVG" />
+</div>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-dshenoyh.in-blue)](https://www.dshenoyh.in)
-[![Email](https://img.shields.io/badge/Email-dshenoyh@gmail.com-red)](mailto:dshenoyh@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/dhanush-shenoy-h)
-
----
-
-## About Me
-
-- **Student** at The Nxtwave Institute of Advanced Technology & Yenepoya University, AI specialization
-- **AI & Web Development Intern** | Building innovative products and automation tools
-- **Hackathon Enthusiast** | Love solving real-world problems
+<p align="center">
+  <a href="https://www.dshenoyh.in">🌐 Portfolio</a> •
+  <a href="mailto:dhanushshenoyh@gmail.com">✉️ Email</a> •
+  <a href="https://www.linkedin.com/in/dhanush-shenoy-h-7622922a4/">💼 LinkedIn</a> •
+  <a href="https://drive.google.com/file/d/1O2NmNrT76fyelNoJ_ggRIWKiEDRrP_K-/view?usp=sharing">📄 Resume</a>
+</p>
 
 ---
 
-## Skills
+## ⚡ // Quick Summary
 
-- **Languages:** Python, JavaScript, C++
-- **Frameworks/Libraries:** ReactJS, Next.js
-- **Tools/Platforms:** Git/GitHub, Docker, K8s
-- **APIs/Services:** Hugging Face, REST APIs
+I am an **AI Engineer & Full Stack Developer** studying Computer Science (AI) at Yenepoya University (YSET) & NIAT. I don’t just write code—I build products, automate systems, and organize developer communities. I live for hackathons, deep software modules, and agentic workflows.
 
----
-
-## Achievements
-
-- **Finalist of OpenAI Buildathon:** Participated as a finalist in OpenAI x Nxtwave x AI Impact Summit Buildathon in New Delhi
-- **2nd Place:** International Hackathon, Srinivas Institute of Technology *(2025)*
-- **Campus Ambassador:** Techfest IIT Bombay *(2025-26; Rank #232)*
-- **AI Development Intern:** CodeAlpha (Chatbots, Object Detection, Translation tools)
-- **Other:** Multiple certifications in AI and Full Stack Development
+> *"I don't wait for opportunities. I build them."*
 
 ---
 
-## Projects
+## 🛠️ // Tech Stack & Toolkits
 
-- **AgroNova:** Farmer assistant app *(Hackathon Winner)* - [**Try ArgoNova Here**](https://www.agronova.in)
-- **CardioNerve:** An alertion software that will alert users if their heart rate crosses certain limits, risking heart attacks (Ideation) - [**check the CardioNerve website here**](https://cardionerve.vercel.app/)
-- **AI-Chef Recipe Generator:** Create recipes using AI (Hugging Face)
-- **Portfolio Website:** [dshenoyh.in](https://www.dshenoyh.in)
-- **Python Task Automator:** Personal workflow scripts
-- **Ultimate n8n Assistant:** Visual workflow automation
-
----
-
-## Certifications
-
-- Finalist in OpenAI x Nxtwave x AI imapact summit Buildathon, New Delhi
-- International Hackathon, SIT – 2nd Place *(2025)*
-- Techfest IIT Bombay – Campus Ambassador *(2025)*
-- CodeAlpha – AI Internship *(2024)*
-
----
-
-## Interests
-
-Hackathons • AI Development • Full-Stack Web • Automation • Cybersecurity • Competitive Programming
-
----
-
-## Contact
-
-- **Email:** dshenoyh@gmail.com
-- **Mobile:** +91 6360869590
-- [**LinkedIn**](https://www.linkedin.com/in/dhanush-shenoy-h)
-- [**Instagram**](https://www.instagram.com/conqueror.core)
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>🤖 AI & Backend</h3>
+      <ul>
+        <li><strong>AI & Agents:</strong> OpenAI API, LangChain, CrewAI, Ollama, Hugging Face</li>
+        <li><strong>Languages:</strong> Python, TypeScript, JavaScript (ES6+), Go, C++</li>
+        <li><strong>Frameworks:</strong> Node.js (Express/NestJS), FastAPI, Flask</li>
+        <li><strong>Databases:</strong> PostgreSQL, MongoDB, Redis, SQLite</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3>🌐 Frontend & Infra</h3>
+      <ul>
+        <li><strong>Frontend:</strong> React.js, Next.js, HTML5/CSS3, Tailwind CSS</li>
+        <li><strong>Animations:</strong> GSAP, Framer Motion</li>
+        <li><strong>Cloud & DevOps:</strong> Cloudflare Workers, Docker, Git, Linux (Fedora)</li>
+        <li><strong>Dev Tools:</strong> Vite, pnpm, npm, Postman, VS Code</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<!-- Optionally, add GitHub stats/visitor badges below: -->
-<!-- ![Dhanush's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhanushshenoyh&show_icons=true&theme=radical) -->
+## 🏆 // Key Recognitions & Achievements
+
+* **🏆 Student of the Year (2026):** Awarded at NIAT for top academic, project, and hackathon execution.
+* **🚀 OpenAI Buildathon Finalist (2026):** Selected as a national finalist (Top 90 out of ~75,000 teams) in New Delhi.
+* **🥈 Srinathon 2.0 (2025):** Secured 2nd Place at the national-level hackathon.
+* **🏅 Hackwise Hackathon (2025):** 4th Place overall for DevOps monitoring automation.
+* **🌍 GoBRICS Buildathon (2025):** Semi-finalist in international decentralized workflows.
+* **📍 IIT Bombay Techfest Campus Ambassador (2025-26):** Led campus promotion (Rank #232 nationally).
+
+---
+
+## 📂 // Featured Projects
+
+* **🌐 [AgroNova](https://www.agronova.in)**: A comprehensive smart farming system that optimizes agricultural operations using AI-driven disease diagnosis and real-time sensor telemetry.
+* **⚡ [SUNDAY](https://github.com/abbysallord/sunday)**: An intelligent desktop utility and email manager that executes system scripts and coordinates workflows via natural language loops.
+* **🔍 [Opportunity Scanner](https://github.com/abbysallord/opportunity-scanner)**: An automated search, parsing, and ranking pipeline that scans public websites for grants, internships, and scholarships.
+* **🛠️ [checkDK](https://github.com/abbysallord/Portfolio)**: A command-line interface and web panel designed for DevOps engineers to proactively monitor clusters and predict service failures.
+* **🔒 [DrugSecure](https://github.com/abbysallord/drug-secure)**: A secure supply-chain quality control and traceability platform ensuring drug authenticity.
+
+---
+
+## 📈 // GitHub Stats (Themed to Portfolio)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abbysallord&show_icons=true&bg_color=080808&title_color=c8f542&text_color=f0ede8&icon_color=c8f542&border_color=1c1c1c&hide_border=false" alt="Dhanush's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbysallord&layout=compact&bg_color=080808&title_color=c8f542&text_color=f0ede8&icon_color=c8f542&border_color=1c1c1c&hide_border=false" alt="Dhanush's Top Languages" height="180px" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abbysallord&theme=dark&background=080808&ring=c8f542&fire=c8f542&currStreakLabel=c8f542&currStreakNum=f0ede8&sideNums=f0ede8&sideLabels=text-muted&dates=f0ede8&border=1c1c1c" alt="Dhanush's GitHub Streak" />
+</div>
+
+---
+
+## 💬 // Connect With Me
+
+* **Email:** [dhanushshenoyh@gmail.com](mailto:dhanushshenoyh@gmail.com)
+* **LinkedIn:** [dhanush-resume-link](https://www.linkedin.com/in/dhanush-shenoy-h-7622922a4/)
+* **Instagram:** [@conqueror.core](https://www.instagram.com/conqueror.core)
