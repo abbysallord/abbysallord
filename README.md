@@ -1,15 +1,20 @@
-# Hi there, I'm Dhanush Shenoy H! 👋
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&duration=2000&pause=1000&color=c8f542&background=00000000&width=435&lines=AI+Engineer;Full+Stack+Developer;Entrepreneur+%26+Builder" alt="Typing SVG" />
-</div>
+  
+  <h1>Hi there, I'm Dhanush Shenoy H! 👋</h1>
 
-<p align="center">
-  <a href="https://www.dshenoyh.in">🌐 Portfolio</a> •
-  <a href="mailto:dhanushshenoyh@gmail.com">✉️ Email</a> •
-  <a href="https://www.linkedin.com/in/dhanush-shenoy-h-7622922a4/">💼 LinkedIn</a> •
-  <a href="https://drive.google.com/file/d/1O2NmNrT76fyelNoJ_ggRIWKiEDRrP_K-/view?usp=sharing">📄 Resume</a>
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&duration=2000&pause=1000&color=c8f542&background=00000000&width=435&center=true&lines=AI+Engineer;Full+Stack+Developer;Entrepreneur+%26+Builder" alt="Typing SVG" />
+
+  <br />
+  <br />
+
+  <p>
+    <a href="https://www.dshenoyh.in">🌐 Portfolio</a> •
+    <a href="mailto:dhanushshenoyh@gmail.com">✉️ Email</a> •
+    <a href="https://www.linkedin.com/in/dhanush-shenoy-h-7622922a4/">💼 LinkedIn</a> •
+    <a href="https://drive.google.com/file/d/1O2NmNrT76fyelNoJ_ggRIWKiEDRrP_K-/view?usp=sharing">📄 Resume</a>
+  </p>
+
+</div>
 
 ---
 
